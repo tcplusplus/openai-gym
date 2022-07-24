@@ -1,0 +1,6 @@
+gym
+pygame
+opencv-python
+gym[atari]
+gym[accept-rom-license]
+matplotlib
