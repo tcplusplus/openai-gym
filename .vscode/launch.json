@@ -19,6 +19,28 @@
       "program": "src/breakout.py",
       "console": "integratedTerminal",
       "justMyCode": true
+    },
+    {
+      "name": "CartPole (Learn)",
+      "type": "python",
+      "request": "launch",
+      "program": "src/cartpole.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "--learn"
+      ]
+    },
+    {
+      "name": "CartPole (Play)",
+      "type": "python",
+      "request": "launch",
+      "program": "src/cartpole.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "--play"
+      ]
     }
   ]
 }
